@@ -14,7 +14,7 @@ function init() {
       // const personAge = testForm['person-age'].value
       const personAge = testForm.age.value
       const personName = testForm.name.value
-  
+      
       const personDescription = document.createElement('p')
       personDescription.textContent = `Person name is ${personName} and age is ${personAge}`
   
