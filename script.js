@@ -6,7 +6,7 @@ function init() {
   
       // const personName = document.querySelector('#person-name').value
       // const personName = document.getElementById('person-name').value
-      // const personName = testForm.querySelector('#person-name').value
+      // const personName = testForm.querySelector('#person-name').value e
   
       // const personAge = testForm.elements.age.value
       // const personAge = testForm.elements['person-age'].value
